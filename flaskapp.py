@@ -3,7 +3,7 @@ from flask import request
 
 #WA[
 from whatsapp import Client
-expected_token = 'SgqkGqrzsZdoZAdQZFdV9k2Nta8='
+expected_token = 'ZSYPkL951Fdn+DMef9SvzaHFJoA='
 #]WA
 
 app = Flask(__name__)
